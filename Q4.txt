@@ -1,0 +1,7 @@
+"git branch -d feature/QA" es para eliminar una rama como en el enunciado
+
+Las ramificaciones se pueden usar por muschas razones como por ejemplo:
+separar funcionalidades, controlar versiones, facilita la revision del codigo
+
+Si usted recibio un ticket [SEM-005], donde podemos indicar que esun nombre
+facil de identifical 
